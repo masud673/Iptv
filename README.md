@@ -1,2 +1,0 @@
-# Iptv
-BD ip tv
