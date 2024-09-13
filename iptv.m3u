@@ -108,6 +108,8 @@ http://172.20.3.1:8080/SonySports5HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://ctgtv.live/assets/images/Sports18%201%20HD.png",Sports 18 1 HD
 http://172.20.3.1:8080/Sports181HD/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="http://ctgtv.live/assets/images/Star%20Sports%2011667750523.png",Star Sports 
-http://172.20.3.1:8080/TenSportsHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://ctgtv.live/assets/images/Star%20Sports%2011667750523.png",Star Sports 1HD
+http://172.20.3.1:8080/StarSports1HD/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="http://ctgtv.live/assets/images/Star%20Sports%2021667750538.png",Star Sports 2HD
+http://172.20.3.1:8080/StarSports2HD/tracks-v1a1/mono.m3u8
