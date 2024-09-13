@@ -13,8 +13,8 @@ http://172.20.3.1:8080/TSportsHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://ctgtv.live/assets/images/Banglavision%20HD.png", Bangla vision
 http://172.20.3.1:8080/BanglaVisionHD/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="http://ctgtv.live/assets/images/TSports1667821226.png", T-Sports
-http://172.20.3.1:8080/TSportsHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://ctgtv.live/assets/images/Channel%20i1664976520.png", ChannelI HD
+http://172.20.3.1:8080/ChannelIHD/tracks-v1a1/mono.m3u8
 
 
 
