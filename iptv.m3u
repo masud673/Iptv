@@ -15,6 +15,12 @@ http://172.20.3.1:8080/Channel24HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://ctgtv.live/assets/images/SomoyTV1689411430.png",Somoy TV
 http://172.20.3.1:8080/SomoyTVHD/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://i2.wp.com/i.ibb.co.com/fSgqKNP/Untitled-design-14.png?w=300&resize=300,300&ssl=1",Gann Bangla
+https://edge01.iptv.digijadoo.net/live/gaan_bangla/chunks.m3u8?expires=1726419754&md5=cuMLYXfzvvQK5hwfcDiRew&user=ff39d05fef0749028389f28943b73363
+
+#EXTINF:-1 tvg-logo="https://i1.wp.com/i.ibb.co.com/hfGtD4x/Untitled-design-13.png?w=300&resize=300,300&ssl=1",Ekushey TV
+https://edge01.iptv.digijadoo.net/live/ekushey_tv/chunks.m3u8?expires=1726420219&md5=VK6TxIdlnXu_WkpdJHZ9ig&user=ff39d05fef0749028389f28943b73363
+
 #EXTINF:-1 tvg-logo="http://ctgtv.live/assets/images/Channel%2091664824936.png",Channel 9
 http://172.20.3.1:8080/CHannel9HD/tracks-v1a1/mono.m3u8
 
