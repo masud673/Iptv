@@ -70,7 +70,10 @@ http://172.20.3.1:8080/NickBNG/tracks-v1a1/mono.m3u8
 http://172.20.3.1:8080/SonyYAY/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://ctgtv.live/assets/images/Zoo%20Moo.png",Zoo Moo
-http://172.20.3.1:8080/SonyYAY/tracks-v1a1/mono.m3u8
+http://172.20.3.1:8080/ZooMoo/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://ctgtv.live/assets/images/BBC%20Cbeebies%20HD.png",BBCCbeebiesHD
+http://172.20.3.1:8080/BBCCbeebiesHD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://ctgtv.live/assets/images/Animal%20Planet1664974986.png",Animal Planet
 http://172.20.3.1:8080/AnimalPlanetHD/tracks-v1a1/mono.m3u8
