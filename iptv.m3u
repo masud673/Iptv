@@ -144,5 +144,10 @@ http://172.20.3.1:8080/TenCricket/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://ctgtv.live/assets/images/Ten%20Sports%20HD.png", Ten Sports HD
 http://172.20.3.1:8080/TenSportsHD/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="http://iptvidn.com/assets/images/rtv.jpg", Sony Arth
+
+#EXTINF:-1 tvg-id="rtv" tvg-name="RTV" tvg-logo="http://iptvidn.com/assets/images/rtv.jpg" group-title="TV Channels", RTV
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:audio-track=1
 http://103.89.248.22:8082/RTV/tracks-v1/index.fmp4.m3u8?token=bce814b29be30a6a67c0a27be629398b2eb2e62e-e136e1976b575f750ca651cf4d0d7289-1726699186-1726688386
+#EXTVLCOPT:audio-track=2
+http://103.89.248.22:8082/RTV/tracks-a1/seg-0-201290.hls.fmp4?token=bce814b29be30a6a67c0a27be629398b2eb2e62e-e136e1976b575f750ca651cf4d0d7289-1726699186-1726688386
