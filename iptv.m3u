@@ -43,6 +43,10 @@ https://livess.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92Y
 https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
 
 
+#EXTINF:-1 tvg-logo="ttps://yt3.googleusercontent.com/HtcIur2vV82gl0v3BQmSnHjaL7X1wpx4d80z3VKHhu-UNUNHMAlwo_AhoRzqU1b-a1JHXIa6sw=s160-c-k-c0x00ffffff-no-rj",Desh TV
+https://www.youtube.com/live/XEiXQHB2wC4?si=D3yy4MHpp-Y4q8tA
+
+
 
 
 
@@ -148,5 +152,3 @@ http://172.20.3.1:8080/TenCricket/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://ctgtv.live/assets/images/Ten%20Sports%20HD.png", Ten Sports HD
 http://172.20.3.1:8080/TenSportsHD/tracks-v1a1/mono.m3u8
-
-
