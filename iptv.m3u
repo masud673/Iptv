@@ -42,13 +42,23 @@ https://livess.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92Y
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/Boishakhi_TV_logo.svg/400px-Boishakhi_TV_logo.svg.png",Boishakhi TV
 https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://bdixtv.live/we/assets/images/Desh%20Tv1664825354.png",Desh Tv
+http://172.20.2.5:8082/BOISHAKI-TV/preview.mp4?token=9241d5010392a357b68a8c0bd8e560966c659f65-b1f03ee78b82e30c2904241c412799f1-1727107037-1727096237
 
-#EXTINF:-1 tvg-logo="ttps://yt3.googleusercontent.com/HtcIur2vV82gl0v3BQmSnHjaL7X1wpx4d80z3VKHhu-UNUNHMAlwo_AhoRzqU1b-a1JHXIa6sw=s160-c-k-c0x00ffffff-no-rj",Desh TV
-https://www.youtube.com/live/XEiXQHB2wC4?si=D3yy4MHpp-Y4q8tA
+#EXTINF:-1 tvg-logo="http://bdixtv.live/we/assets/images/DW%20TV1664825583.png", DW
+http://172.20.2.5:8082/DW-NEWS/tracks-v1a1/mono.m3u8?token=2f705b407c4101c2f3761b835bd51aba8e22ed96-6f4aeda6b62188c2daf9a16479ca4a5c-1727106912-1727096112
 
+#EXTINF:-1 tvg-logo="http://bdixtv.live/we/assets/images/National%20Geography1664975151.png",National Geography
+http://172.20.2.5:8082/NGO-GEROPHY/preview.mp4?token=4a5ab772f6f9fd591e1563bb860df0c14d4b14e0-7ac1143391a73e199102193321c27450-1727106988-1727096188
 
+#EXTINF:-1 tvg-logo="http://172.20.2.5/we/assets/images/Jalsha%20Movies1664976818.png",Jalsha Movies
+http://172.20.2.5:8082/JALSHA-MOVIES/preview.mp4?token=ce166e439283bafd3e7f54eed2aa4700cd831bcc-f817fbe4081b608e9bc6d9ea44ced939-1727107157-1727096357
 
+#EXTINF:-1 tvg-logo="http://172.20.2.5/we/assets/images/Sony%20Aath1667728032.png",Sony Aath
+http://172.20.2.5:8082/SONY-ART/tracks-v1a1/mono.m3u8?token=22e34783a384239f780d8c525df4f555deed34fa-048efbaf4c5075e62cd09306546d3541-1727107194-1727096394
 
+#EXTINF:-1 tvg-logo="http://172.20.2.5/we/assets/images/Colors%20Bangla1664976841.png",Colors Bangla
+http://172.20.2.5:8082/COLORS-BANGLA/preview.mp4?token=1acf88c87b603d8ffb282318752178f85e9b2945-349617073b6b899a9b165b7344053e52-1727107274-1727096474
 
 #EXTINF:-1 tvg-logo="http://ctgtv.live/assets/images/Zee%20Bangla1664976875.png",Zee Bangla
 http://172.20.3.1:8080/ZeeBanglaHD/tracks-v1a1/mono.m3u8
