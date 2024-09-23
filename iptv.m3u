@@ -60,6 +60,33 @@ http://172.20.2.5:8082/SONY-ART/tracks-v1a1/mono.m3u8?token=22e34783a384239f780d
 #EXTINF:-1 tvg-logo="http://172.20.2.5/we/assets/images/Colors%20Bangla1664976841.png",Colors Bangla
 http://172.20.2.5:8082/COLORS-BANGLA/preview.mp4?token=1acf88c87b603d8ffb282318752178f85e9b2945-349617073b6b899a9b165b7344053e52-1727107274-1727096474
 
+#EXTINF:-1 tvg-logo="http://bdixtv.live/we/assets/images/DBC1664825292.png",DBC-NEWS
+http://172.20.2.5:8082/DBC-NEWS/preview.mp4?token=31161659428d695a2510b73be5410a8179285914-fe9eb29536512254581650d69ac8abe4-1727107891-1727097091
+
+#EXTINF:-1 tvg-logo="http://172.20.2.5/we/assets/images/gaanbangla.png",GAN-BANGLA
+http://172.20.2.5:8082/GAN-BANGLA/preview.mp4?token=d54fdc7ed45dbfcefaa2bc31475e647dc5900835-8e274e24faee0769ccbc198643c2729d-1727107964-1727097164
+
+#EXTINF:-1 tvg-logo="http://172.20.2.5/we/assets/images/sangeetbangla.png",SANGIT-BANGLA
+http://172.20.2.5:8082/SANGIT-BANGLA/preview.mp4?token=cc7281e0b46f2c0d76854c3f547d3a2a9e7b701c-887856034c987da065dc7903990a2116-1727107932-1727097132
+
+#EXTINF:-1 tvg-logo="http://172.20.2.5/we/assets/images/Zee%20Cinema%20HD1664974056.png",ZEE-CINEMA
+http://172.20.2.5:8082/ZEE-CINEMA/preview.mp4?token=d2355902700eeb0d70b0522d9e5681f8450f2553-59069df7a5e5b8827da4b548a4f2fe7f-1727108053-1727097253
+
+#EXTINF:-1 tvg-logo="http://172.20.2.5/we/assets/images/Colors%20TV%20HD1664974042.png",COLORS-HIN
+http://172.20.2.5:8082/COLORS-HIN/preview.mp4?token=317e1b6049dd620c3259cc7b600521a7f08d1fe2-f222638d19bab6790364e43c36066214-1727108077-1727097277
+
+
+#EXTINF:-1 tvg-logo="http://172.20.2.5/we/assets/images/Star%20Gold1667751269.png",STAR-GOLD
+http://172.20.2.5:8082/STAR-GOLD/tracks-v1a1/mono.m3u8?token=4b5b14edc0353b30edea9a52da6d8579d20663a6-d77cd2a4be14c4829e4001e0ad6bc0f6-1727108216-1727097416
+
+
+#EXTINF:-1 tvg-logo="http://172.20.2.5/we/assets/images/Romedy%20Now1689427170.png",MOVIE-NOW
+http://172.20.2.5:8082/MOVIE-NOW/tracks-v1a1/mono.m3u8?token=ef87cc758e73e0381c463d1305163aa34141fa43-a5ab6e7a583143544f49392b0a3f0ce2-1727108249-1727097449
+
+
+#EXTINF:-1 tvg-logo="http://172.20.2.5/we/assets/images/Sony%20Pix%20HD1667728093.png",SONY-PIX
+http://172.20.2.5:8082/SONY-PIX/tracks-v1a1/mono.m3u8?token=d34f0b13b348ee1af1a333d6020c6a8bb5a68bd0-e7b61e41b9936adb1dc83a91e1c9257b-1727108284-1727097484
+
 #EXTINF:-1 tvg-logo="http://ctgtv.live/assets/images/Zee%20Bangla1664976875.png",Zee Bangla
 http://172.20.3.1:8080/ZeeBanglaHD/tracks-v1a1/mono.m3u8
 
@@ -86,6 +113,9 @@ http://172.20.3.1:8080/SonySabHD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://ctgtv.live/assets/images/Duronto1665400494.png",Duronto TV
 http://172.20.3.1:8080/DurontoTVHD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://172.20.2.5/we/assets/images/Nick%20HD1664976992.png",NICK
+http://172.20.2.5:8082/NICK/preview.mp4?token=f6c8e503598d98ef69ecc58e74d7ac7413b9929b-eb99747868fae788a496be68a02de8fb-1727108016-1727097216
 
 #EXTINF:-1 tvg-logo="http://ctgtv.live/assets/images/Nick%20HD1664976992.png",Nick HD
 http://172.20.3.1:8080/NickBNG/tracks-v1a1/mono.m3u8
