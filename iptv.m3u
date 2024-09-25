@@ -46,7 +46,7 @@ https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
 http://172.20.2.5:8082/BOISHAKI-TV/preview.mp4?token=9241d5010392a357b68a8c0bd8e560966c659f65-b1f03ee78b82e30c2904241c412799f1-1727107037-1727096237
 
 #EXTINF:-1 tvg-logo="http://bdixtv.live/we/assets/images/DW%20TV1664825583.png", DW
-http://172.20.2.5:8082/DW-NEWS/tracks-v1a1/mono.m3u8?token=2f705b407c4101c2f3761b835bd51aba8e22ed96-6f4aeda6b62188c2daf9a16479ca4a5c-1727106912-1727096112
+https://bds.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/dwnews.stream/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://bdixtv.live/we/assets/images/National%20Geography1664975151.png",National Geography
 http://172.20.2.5:8082/NGO-GEROPHY/preview.mp4?token=4a5ab772f6f9fd591e1563bb860df0c14d4b14e0-7ac1143391a73e199102193321c27450-1727106988-1727096188
