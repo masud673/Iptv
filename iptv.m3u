@@ -37,6 +37,9 @@ http://172.20.3.1:8080/MasrangaTVHD/tracks-v1a1/mono.m3u8
 http://172.20.3.1:8080/Inter10Bangla/tracks-v1a1/mono.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2015/12/asiantv.jpg?x13834",Asian TV
+https://bds.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/asian-test-sample-ok-d.stream/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2016/02/bangla21tv.jpg?x13834",bangla21 TV
 https://livess.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/bangla21tv000889956-sg.stream/live-orgin/bangla21tv000889956-sg.stream/chunks.m3u8?nimblesessionid=341914829&wmsAuthSign=c2VydmVyX3RpbWU9OS8yMC8yMDI0IDU6MTk6MTAgUE0maGFzaF92YWx1ZT1sb0IvY09jWEx0NC9zblBLOUxWUC9BPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
