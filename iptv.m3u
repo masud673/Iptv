@@ -150,10 +150,10 @@ http://172.20.3.1:8080/DiscoveryHD/tracks-v1a1/mono.m3u8
 http://172.20.3.1:8080/TravelXPHD/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://ctgtv.live/assets/images/Zoom.png",Zoom
+#EXTINF:-1 tvg-logo="hhttps://i1.sndcdn.com/avatars-000120257144-5fcxjn-t240x240.jpg",Zoom
 http://172.20.3.1:8080/Zoom/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="http://ctgtv.live/assets/images/Euro%20Sport%20HD.png",Euro Sport HD
+#EXTINF:-1 tvg-logo="https://iconape.com/wp-content/files/fs/285350/png/285350.png",Euro Sport HD
 http://172.20.3.1:8080/EuroSportHD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://ctgtv.live/assets/images/A%20Sports%20HD.png",A Sports HD
