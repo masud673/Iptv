@@ -55,7 +55,7 @@ http://172.20.2.5:8082/NGO-GEROPHY/preview.mp4?token=4a5ab772f6f9fd591e1563bb860
 http://172.20.2.5:8082/JALSHA-MOVIES/preview.mp4?token=ce166e439283bafd3e7f54eed2aa4700cd831bcc-f817fbe4081b608e9bc6d9ea44ced939-1727107157-1727096357
 
 #EXTINF:-1 tvg-logo="http://172.20.2.5/we/assets/images/Sony%20Aath1667728032.png",Sony Aath
-http://172.20.2.5:8082/SONY-ART/tracks-v1a1/mono.m3u8?token=87fd03fb2a2823c8ae14ba2c74895c36b52933ed-87f42383969a73cb7ad08138f4b0f809-1727215598-1727204798
+https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/sony_aath_576/sony_aath_576.m3u8?bitrate=1000000&channel=sony_aath_576&gp_id=8
 
 #EXTINF:-1 tvg-logo="http://172.20.2.5/we/assets/images/Colors%20Bangla1664976841.png",Colors Bangla
 http://172.20.2.5:8082/COLORS-BANGLA/preview.mp4?token=1acf88c87b603d8ffb282318752178f85e9b2945-349617073b6b899a9b165b7344053e52-1727107274-1727096474
