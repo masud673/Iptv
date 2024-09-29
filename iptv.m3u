@@ -57,7 +57,7 @@ http://172.20.2.5:8082/BOISHAKI-TV/preview.mp4?token=9241d5010392a357b68a8c0bd8e
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream04/streamPlaylist.m3u8
 
 #EXTINF:-1 tvg-logo="http://bdixtv.live/we/assets/images/National%20Geography1664975151.png",National Geography
-http://172.20.2.5:8082/NGO-GEROPHY/preview.mp4?token=4a5ab772f6f9fd591e1563bb860df0c14d4b14e0-7ac1143391a73e199102193321c27450-1727106988-1727096188
+https://cdn1.pishow.tv/live/252/252_0.m3u8
 
 #EXTINF:-1 tvg-logo="http://172.20.2.5/we/assets/images/Jalsha%20Movies1664976818.png",Jalsha Movies
 http://172.20.2.5:8082/JALSHA-MOVIES/preview.mp4?token=ce166e439283bafd3e7f54eed2aa4700cd831bcc-f817fbe4081b608e9bc6d9ea44ced939-1727107157-1727096357
@@ -146,8 +146,8 @@ http://172.20.3.1:8080/BBCEaarthHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://ctgtv.live/assets/images/Lifestyle.png",Lifestyle
 http://172.20.3.1:8080/BBCLifestyleHD/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="http://ctgtv.live/assets/images/Discovery1664975007.png",Discovery
-http://172.20.3.1:8080/DiscoveryHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/RDkTsTT/20240926-010051.png",Discovery
+https://food-dlvr-ott.akamaized.net/primary/4/686a061683e44b518cdf57677e352ef3/index_20.m3u8
 
 #EXTINF:-1 tvg-logo="http://172.20.3.1/assets/images/Travel%20XP1664976451.png",TravelXPHD
 http://172.20.3.1:8080/TravelXPHD/tracks-v1a1/mono.m3u8
