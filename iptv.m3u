@@ -74,8 +74,30 @@ http://172.20.2.5:8082/DBC-NEWS/preview.mp4?token=31161659428d695a2510b73be5410a
 #EXTINF:-1 tvg-logo="http://172.20.2.5/we/assets/images/gaanbangla.png",GAN-BANGLA
 http://172.20.2.5:8082/GAN-BANGLA/preview.mp4?token=d54fdc7ed45dbfcefaa2bc31475e647dc5900835-8e274e24faee0769ccbc198643c2729d-1727107964-1727097164
 
-#EXTINF:-1 tvg-logo="http://172.20.2.5/we/assets/images/sangeetbangla.png",SANGIT-BANGLA
-http://172.20.2.5:8082/SANGIT-BANGLA/preview.mp4?token=cc7281e0b46f2c0d76854c3f547d3a2a9e7b701c-887856034c987da065dc7903990a2116-1727107932-1727097132
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0VRg1Q1/20240917-140024.png",SANGEET BANGLA
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbangla/default/sangeetbangla-audio_208482_und=208000-video=2137600.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Lz78CK9/20240918-070355.png",MON TV
+https://live-stream.utkalbongo.com/utkalbongo/stream7/hls/montvlivestream.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jWBFTbF/20240917-202635.png",MUSIC INDIA
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Musicindia/default/musicindia-audio_208482_und=208000-video=2137600.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cFpBwr4/20240919-015908.png",9 XM
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9XM/default/9XM-audio_208482_und=208000-video=2137600.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ngcnTkY/20240919-020059.png",9X JALWA
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9Xjalwa/default/9XJalwa-audio_208482_und=208000-video=2137600.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NjCMKJy/20240918-095851.png",BALLE BALLE
+https://mcncdndigital.com/balleballetv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YDqtj6r/20240919-015406.png",SHOW BOX
+https://epiconvh.s.llnwi.net/showbox/master_1080.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tBMFpdg/20240919-015114.png",MTV BEATS
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Mtvbeats/default/mtvbeats-audio_208482_und=208000-video=2137600.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://172.20.2.5/we/assets/images/Zee%20Cinema%20HD1664974056.png",ZEE-CINEMA
 http://172.20.2.5:8082/ZEE-CINEMA/preview.mp4?token=d2355902700eeb0d70b0522d9e5681f8450f2553-59069df7a5e5b8827da4b548a4f2fe7f-1727108053-1727097253
