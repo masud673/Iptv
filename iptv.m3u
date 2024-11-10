@@ -184,6 +184,10 @@ http://172.20.3.1:8080/EuroSportHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://ctgtv.live/assets/images/A%20Sports%20HD.png",A Sports HD
 http://172.20.3.1:8080/ASportsHD/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="http://ctgtv.live/assets/images/bein1.png",MOVIE-NOW
+http://172.20.3.1:8080/beINSports1/tracks-v1a1/mono.m3u8
+
+
 #EXTINF:-1 tvg-logo="http://ctgtv.live/assets/images/PK-Premier%20Sports.png",PK-Premier Sports
 http://172.20.3.1:8080/PremierSportsHD/tracks-v1a1/mono.m3u8
 
