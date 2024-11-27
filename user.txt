@@ -1,3 +1,2 @@
-admin,password
-user1,pass456
-user2,hello789
+admin    admin
+muzahid   muzahid
