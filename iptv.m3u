@@ -32,3 +32,69 @@ http://172.20.3.1:81/TenCricket/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://ctgtv.live/assets/images/Star%20Sports%2011667750523.png",Star Sports 1
 http://172.20.3.1:81/StarSports1HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://ctgtv.live/assets/images/BD-Asian%20TV1731519990.png",Asian TV
+http://172.20.3.1:81/AsianTV/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://ctgtv.live/assets/images/Channel%2091664824936.png",Channel 9
+http://172.20.3.1:81/CHannel9HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://ctgtv.live/assets/images/Channel%20i1664976520.png",Channel i
+http://172.20.3.1:81/ChannelIHD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://ctgtv.live/assets/images/BD-Channel%20S1731598946.png",Channel S
+http://172.20.3.1:81/ChannelS/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://ctgtv.live/assets/images/BD-Deepto%20Tv1676377276.png",Deepto TV
+http://172.20.3.1:81/DeeptoHD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://ctgtv.live/assets/images/BD-Ekhon%20TV1731466649.png",Ekhon TV
+http://172.20.3.1:81/EkhonTV/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://ctgtv.live/assets/images/Independent%20TV1664976104.png",Independent TV
+http://172.20.3.1:81/IndependentTV/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://ctgtv.live/assets/images/Jamuna%20Tv1664825738.png",Jamuna TV
+http://172.20.3.1:81/JamunaTV/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://ctgtv.live/assets/images/Masranga1667751530.png",Masranga TV
+http://172.20.3.1:81/MasrangaTVHD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://ctgtv.live/assets/images/BD-Nagorik%20Tv1725785084.png",Nagorik TV
+http://172.20.3.1:81/NagorikTVHD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://ctgtv.live/assets/images/BD-News%20241664826177.png",News 24
+http://172.20.3.1:81/News24HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://ctgtv.live/assets/images/SomoyTV1689411430.png",Somoy TV
+http://172.20.3.1:81/SomoyTVHD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://ctgtv.live/assets/images/BBC%20Earth1664974852.png",BBC Earth
+http://172.20.3.1:81/BBCEaarthHD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://ctgtv.live/assets/images/BBC%20Lifestyle.png",BBC Lifestyle
+http://172.20.3.1:81/BBCLifestyleHD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://ctgtv.live/assets/images/Travel%20XP1664976451",Travel XP
+http://172.20.3.1:81/TravelXPHD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://ctgtv.live/assets/images/Enter10%20Bangla.png",Enter10 Bangla
+http://172.20.3.1:81/Inter10Bangla/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://ctgtv.live/assets/images/Star%20Plus1667751169.png",Star Plus
+http://172.20.3.1:81/StarPlus/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://ctgtv.live/assets/images/Sun%20Bangla1664976074.png",Sun Bangla
+http://172.20.3.1:81/SunBangla/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://ctgtv.live/assets/images/Zee%20Bangla1664976875.png",Zee Bangla
+http://172.20.3.1:81/ZeeBanglaHD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://ctgtv.live/assets/images/Duronto1665400494.png",Duronto TV
+http://172.20.3.1:81/DurontoTVHD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://ctgtv.live/assets/images/Nick%20HD1664976992.png",Nick HD
+http://172.20.3.1:81/NickBNG/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://ctgtv.live/assets/images/Sony%20YAY1667728254.png",Sony YAY
+http://172.20.3.1:81/SonyYAY/tracks-v1a1/mono.m3u8
